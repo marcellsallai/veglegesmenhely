@@ -1,0 +1,42 @@
+.emailcim {
+    text-align: center;
+}
+
+th {
+    background-color: #fff677;
+    color: black;
+    border: 3px solid rgb(138, 69, 4);
+  }
+
+td {
+  background-color:rgb(138, 69, 4);
+  color: white;
+  border:3px solid #fff677;
+}
+
+  .link {
+    background-color:#fff677;
+    color: rgb(138, 69, 4);
+    padding: 14px 25px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    border-radius: 15px;
+    border:2px solid rgb(138, 69, 4);
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+  }
+  
+  .adatok{
+    margin: auto;
+    color:rgb(138, 69, 4);
+
+  }
+
+  .table{
+    margin: auto;
+  }
+
+.nyitva{
+  text-align: center;
+  color:rgb(138, 69, 4);
+}

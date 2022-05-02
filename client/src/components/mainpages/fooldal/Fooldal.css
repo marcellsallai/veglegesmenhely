@@ -1,0 +1,57 @@
+
+.onkentes{
+    background-image: url(Ellipse\ 3.svg);
+    height: 588px;
+    width: 493px;
+    margin-left: 2px;
+    float: left;
+    line-height: 40px;
+
+
+}
+
+.kepek{
+    margin-bottom: 20px;
+}
+
+.szoveg{
+    text-align: center;
+    margin-top: 180px;
+    margin-right: 12px;
+    font-size: 17px;
+
+}
+
+.szoveg h2{
+    font-size: 20px;
+    margin-left: 16px;
+    margin-right: 12px;
+}
+
+.button{
+    margin-bottom: 18px;
+    font-size: 22px;
+    background-color:#A88B258A;
+    color: black;
+    border: 2px solid #555555;
+    border-radius: 20px;
+    border:2px solid rgb(138, 69, 4);
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+
+}
+
+.button:hover{
+    background-color: #ece366;
+    color: black;
+}
+
+.hatterszin {
+    background-color:#A88B258A;
+    border-radius: 5px;
+    border:2px solid rgb(138, 69, 4);
+}
+
+.logok{
+    border-radius: 5px;
+    border:2px solid rgb(138, 69, 4);
+}
